@@ -21,3 +21,5 @@ set foldlevel=1         "this is just what i use
 
 "map ctrlp 
 nmap <Leader>t :CtrlP <CR>
+
+autocmd FileType ruby set tabstop=2|set shiftwidth=2|set expandtab|set softtabstop=2
